@@ -1,0 +1,18 @@
+
+FORUM ACK
+https://amazon.developer.forums.answerhub.com/spaces/451/index.html?sort=newest
+
+
+ACK TUTORIAL
+https://developer.amazon.com/en-US/docs/alexa/ack/create-virtual-product.html
+
+VIRTUAL PRODUCT 
+https://developer.amazon.com/alexa/console/ack/products
+
+ALEXA API´s
+https://developer.amazon.com/en-US/docs/alexa/device-apis/alexa-powercontroller.html
+
+
+
+ARDUINO STM32 CONFIGURATION:
+https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/STM32/package_stm_index.json
